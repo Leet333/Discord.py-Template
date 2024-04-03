@@ -4,7 +4,7 @@ Bot template for discord.py
 
 ## Features
 * Ping command
-* Pagination & pagination example
+* Paginator & pagination example
 * Custom context for adding whatever functionality you want
 
 ## Setup
